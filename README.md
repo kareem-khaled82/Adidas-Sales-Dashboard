@@ -26,6 +26,4 @@ The dashboard explores **Adidas sales performance** and enables quick, visual in
 ---
 
 ## 🖼️ Dashboard Preview
-<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/a9915329-53c6-4a33-836c-4a445658c601" />
-- GitHub: [Your GitHub Link]  
-- 📄 [Download CV](./CV.pdf) (optional)  
+<img width="1916" height="1015" alt="image" src="https://github.com/user-attachments/assets/5b7effa7-1f12-4092-80cb-fb648b883976" />
